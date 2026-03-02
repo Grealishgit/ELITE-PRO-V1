@@ -9,7 +9,7 @@ global.socialm = process.env.SOCIAL_M || "GitHub: EliteProTech";
 global.location = process.env.LOCATION || "Nigeria, Port Harcourt";
 
 // Creator details
-global.ownernumber = process.env.OWNER_NUMBER || '2347047504860';
+global.ownernumber = process.env.OWNER_NUMBER || '254768992749';
 global.ownername = process.env.OWNER_NAME || 'ElitePro';
 global.botname = process.env.BOT_NAME || 'ELITE-PRO-V1';
 
