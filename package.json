@@ -10,6 +10,9 @@
     "session": "session",
     "media": "media"
   },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "scripts": {
     "start": "node index.js"
   },
